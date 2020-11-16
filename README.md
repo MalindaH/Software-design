@@ -1,1 +1,1 @@
-# COMP-303
+## COMP-303 Software Design
