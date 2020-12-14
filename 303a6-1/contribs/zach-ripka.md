@@ -1,0 +1,4 @@
+- implemented a way to delete playables on button click per requirement 2 in c3d8553fe74f6a0cb52dc51f51e16bc99032a303
+- resolved .classpath file issue with teammates to ensure proper group workflow
+- implemented the rest of the requirements for problem 2 0fd771faae48602716b23a886b86b7bf4255266c
+- reviewed implementation of Problem 1 in issue #4
